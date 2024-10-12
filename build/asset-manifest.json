@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/waves/static/css/main.9444ec89.css",
+    "main.js": "/waves/static/js/main.43ab4ce2.js",
+    "static/js/453.6c3d94af.chunk.js": "/waves/static/js/453.6c3d94af.chunk.js",
+    "index.html": "/waves/index.html",
+    "main.9444ec89.css.map": "/waves/static/css/main.9444ec89.css.map",
+    "main.43ab4ce2.js.map": "/waves/static/js/main.43ab4ce2.js.map",
+    "453.6c3d94af.chunk.js.map": "/waves/static/js/453.6c3d94af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9444ec89.css",
+    "static/js/main.43ab4ce2.js"
+  ]
+}
