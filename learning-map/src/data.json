@@ -1,0 +1,57 @@
+{
+  "lessons": [
+    {
+      "id": "wave-anatomy",
+      "title": "Wave Anatomy",
+      "pages": [
+        {
+          "title": "Introduction",
+          "content": "<h2>Wave Anatomy</h2><p>Understanding the structure of a wave is crucial for surfing, unless you enjoy face-planting into the ocean like a drunk seal. Let's explore the key components of a wave, because knowing is half the battle (the other half is not drowning):</p><img src='/waves/learning-map/images/wave-anatomy-diagram.png' alt='Wave Anatomy Diagram' /><p>Click 'Next' to learn about each component in detail, or don't and remain blissfully ignorant. Your choice, champ.</p>"
+        },
+        {
+          "title": "Crest",
+          "content": "<h2>Crest</h2><p>The crest is the highest point of the wave, also known as 'the point of no return' or 'where dreams and dignity go to die'.</p><img src='/waves/learning-map/images/wave-crest.svg' alt='Wave Crest' />"
+        },
+        {
+          "title": "Trough",
+          "content": "<h2>Trough</h2><p>The trough is the lowest point between waves, affectionately called 'Poseidon's Valley of Despair' by those who've tasted its salty embrace.</p><img src='/waves/learning-map/images/wave-trough.svg' alt='Wave Trough' />"
+        },
+        {
+          "title": "Face",
+          "content": "<h2>Face</h2><p>The face is the front side of the wave where surfers ride. It's also where you'll leave your face imprint if you're not careful. Think of it as nature's way of offering free exfoliation.</p><img src='/waves/learning-map/images/wave-face.png' alt='Wave Face' />"
+        },
+        {
+          "title": "Lip",
+          "content": "<h2>Lip</h2><p>The lip is the topmost part of the wave that breaks over. It's like the ocean's way of giving you a big, wet kiss... right before it slaps you silly.</p><img src='/waves/learning-map/images/wave-lip.png' alt='Wave Lip' />"
+        },
+        {
+          "title": "Shoulder",
+          "content": "<h2>Shoulder</h2><p>The shoulder is the unbroken section of the wave beside the crest. It's where experienced surfers show off and beginners go to cry. Choose your adventure!</p><img src='/waves/learning-map/images/wave-shoulder.png' alt='Wave Shoulder' />"
+        }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "wave-anatomy-quiz",
+      "title": "Wave Anatomy Quiz",
+      "questions": [
+        {
+          "id": 1,
+          "image": "/waves/learning-map/images/wave-anatomy-quiz-1.png",
+          "question": "What part of the wave is indicated by the red arrow?",
+          "options": ["Peak", "Trough", "Face", "Lip"],
+          "correctAnswer": "Peak",
+          "answerImage": "/waves/learning-map/images/wave-anatomy-quiz-1-answer.png"
+        },
+        {
+          "id": 2,
+          "image": "/waves/learning-map/images/wave-anatomy-quiz-2.png",
+          "question": "Which component of the wave is highlighted?",
+          "options": ["Back", "Face", "Shoulder", "Trough"],
+          "correctAnswer": "Shoulder"
+        }
+      ]
+    }
+  ]
+}
